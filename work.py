@@ -2,6 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
 import qtawesome
 
+###################################################
 class MainUi(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
